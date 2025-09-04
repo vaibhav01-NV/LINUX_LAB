@@ -57,7 +57,7 @@ echo "My name is $name and I am $age years old."
 Output:
 
 ```
-My name is Vibhu and I am 37 years old.
+My name is Vaibhav and I am 18 years old.
 ```
 
 ### Environment variables
