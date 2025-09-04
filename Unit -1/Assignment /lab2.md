@@ -34,7 +34,7 @@ $ ./print_numbers.sh
 ```
 
 ---
-![screenshot of vt](vt.png)
+![screenshot of tv](vt.png)
 
 ## Script 2: array_loop.sh
 
@@ -70,7 +70,7 @@ cherry
 ```
 
 ---
-![screenshot of tv](tv.png)
+![screenshot of tv](vt.png)
 
 ## Extra Questions
 
