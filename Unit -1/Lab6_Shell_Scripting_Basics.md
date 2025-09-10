@@ -42,7 +42,7 @@ Variables store data (text, numbers, paths, etc.).
 ### Defining variables
 
 ```bash
-name="Vibhu"
+name="Vaibhav"
 age=37
 ```
 
