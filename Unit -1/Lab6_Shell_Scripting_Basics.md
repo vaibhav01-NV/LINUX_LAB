@@ -43,7 +43,7 @@ Variables store data (text, numbers, paths, etc.).
 
 ```bash
 name="Vaibhav"
-age=37
+age=18
 ```
 
 ⚠️ No spaces around `=`.
