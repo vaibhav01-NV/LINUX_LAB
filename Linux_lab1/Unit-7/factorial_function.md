@@ -27,3 +27,4 @@ for arg in "$@"; do
   fi
   echo "$arg! = $(fact "$arg")"
 done
+![alt text](yu.png)
